@@ -1,0 +1,10 @@
+﻿name,course,semester,instructor,avg_grade
+A,Eng,1,X,76
+B,CS,1,Y,66
+C,CS,1,Y,91
+B,CS,2,Z,57
+C,CS,2,Z,88
+A,Eng,2,X,84
+B,CS,3,Y,51
+A,Eng,3,X,61
+C,CS,3,Y,81
